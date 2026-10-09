@@ -1,9 +1,9 @@
 {
-  "version": "0.4.0",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.0/xuanjian-0.4.0.apk",
-  "sha256": "9167e673ec095cdca4f6e06cec7ca769c61a4f37cf45493571c79d38c8b862b2",
+  "version": "0.4.1",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.1/xuanjian-0.4.1.apk",
+  "sha256": "64ac2f18745daf2a2592d93d75df3a60c955ab7b979dfd9c5415412e1a019baf",
   "bytes": 275149,
-  "releaseNotes": "简化纸色界面；登录、GPT连接和版本更新集中到连接GPT页；完整六爻图标；新增八字格局/扶抑用神候选与流年、六爻取用和动变；保留App内OpenAI登录与离线档案。",
-  "publishedAt": "2026-10-09T10:22:00Z"
+  "releaseNotes": "简化纸色界面；登录、GPT连接和版本更新集中到连接GPT页；完整六爻图标；新增八字格局/扶抑用神候选与流年、六爻取用和动变；保留App内OpenAI登录与离线档案。浅色系统状态栏与主题色适配。",
+  "publishedAt": "2026-10-09T10:27:00Z"
 }
