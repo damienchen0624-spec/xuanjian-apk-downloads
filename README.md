@@ -1,8 +1,8 @@
 # 玄鉴 Android 安装包
 
-当前版本：**0.4.1**。
+当前版本：**0.4.2**。
 
-[下载 APK](https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.1/xuanjian-0.4.1.apk) · [备用直链](https://raw.githubusercontent.com/damienchen0624-spec/xuanjian-apk-downloads/main/xuanjian-0.4.1.apk) · [版本说明](releases/v0.4.1.md)
+[下载 APK](https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.2/xuanjian-0.4.2.apk) · [备用直链](https://raw.githubusercontent.com/damienchen0624-spec/xuanjian-apk-downloads/main/xuanjian-0.4.2.apk) · [版本说明](releases/v0.4.2.md)
 
 离线使用无需账号，档案保存在各自手机。登录、GPT 连接、版本和 App 更新均在「连接 GPT」页面。首次从旧版升级请直接覆盖安装，保留本机档案，不要卸载或清除数据。Android 会要求确认安装。
 
