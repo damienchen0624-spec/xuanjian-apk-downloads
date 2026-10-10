@@ -1,9 +1,9 @@
 {
-  "version": "0.4.3",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.3/xuanjian-0.4.3.apk",
-  "sha256": "84f49badbd6cf6bef21f827254bf62614dae18d238dff11d61b54d3f3e040f89",
-  "bytes": 279245,
-  "releaseNotes": "简洁一级入口与二级详情；投币反馈、六爻完成后静默保护和清空重起；卦象页直接查看完整卦爻辞并标出动爻；新增个人八字档案；合并设置入口，区分本地与云端档案。沿用原签名，可覆盖升级并保留档案。",
-  "publishedAt": "2026-10-09T15:01:21.073522Z"
+  "version": "0.4.4",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.4/xuanjian-0.4.4.apk",
+  "sha256": "77664eb3f0a905218aa08e187253169819177da569893767d6ffa972d50ff522",
+  "bytes": 291533,
+  "releaseNotes": "六爻白话与专业分析改为问题、取用、证据、关键动变、观察时机及行动复盘；支持用神多现比较、自占世爻与本次分析追加保存；JSON、Markdown和GPT读取同源。保留0.4.3页面框架、离线档案与App内登录，沿用原签名覆盖升级。",
+  "publishedAt": "2026-10-10T01:31:43.714198Z"
 }
