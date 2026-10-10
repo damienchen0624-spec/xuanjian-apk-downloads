@@ -1,9 +1,9 @@
 {
-  "version": "0.4.4",
-  "versionCode": 12,
-  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.4/xuanjian-0.4.4.apk",
-  "sha256": "77664eb3f0a905218aa08e187253169819177da569893767d6ffa972d50ff522",
-  "bytes": 291533,
-  "releaseNotes": "六爻白话与专业分析改为问题、取用、证据、关键动变、观察时机及行动复盘；支持用神多现比较、自占世爻与本次分析追加保存；JSON、Markdown和GPT读取同源。保留0.4.3页面框架、离线档案与App内登录，沿用原签名覆盖升级。",
-  "publishedAt": "2026-10-10T01:31:43.714198Z"
+  "version": "0.4.5",
+  "versionCode": 13,
+  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.5/xuanjian-0.4.5.apk",
+  "sha256": "a611f305f5c4c9545e0c566c8e64c466b8742b501cdcbac472b04c976cdf916e",
+  "bytes": 299725,
+  "releaseNotes": "六爻问事类型必选、备注选填，按16类具体问题解释取用、证据、实际意义和行动复盘；八字必要出生信息在排盘前校验，新增月令、十神组合、格局及大运流年的实际分析。两类补充神煞查法和命中位置，保存与导出同源。沿用原签名覆盖升级，保留离线档案和App内登录。",
+  "publishedAt": "2026-10-10T07:36:43.741924Z"
 }
