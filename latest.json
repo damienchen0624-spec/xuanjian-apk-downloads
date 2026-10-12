@@ -1,9 +1,9 @@
 {
-  "version": "0.4.5",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.5/xuanjian-0.4.5.apk",
-  "sha256": "a611f305f5c4c9545e0c566c8e64c466b8742b501cdcbac472b04c976cdf916e",
-  "bytes": 299725,
-  "releaseNotes": "六爻问事类型必选、备注选填，按16类具体问题解释取用、证据、实际意义和行动复盘；八字必要出生信息在排盘前校验，新增月令、十神组合、格局及大运流年的实际分析。两类补充神煞查法和命中位置，保存与导出同源。沿用原签名覆盖升级，保留离线档案和App内登录。",
-  "publishedAt": "2026-10-10T07:36:43.741924Z"
+  "version": "0.4.6",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.6/xuanjian-0.4.6.apk",
+  "sha256": "0d958481b8a9bc1c3d913cc00125329453f2271678eb3b2577f8b29a5c8f845e",
+  "bytes": 295629,
+  "releaseNotes": "六爻收敛为完整确定性排盘、六类基础方向与ChatGPT深度分析入口。新增HexagramFacts，基础判断仅一句结论和3—5个证据信号；新增四个六爻MCP读取工具，共用完整raw facts。保留原排盘、旧档案、八字、离线与登录，同签名覆盖升级。",
+  "publishedAt": "2026-10-12T01:27:11.417627Z"
 }
