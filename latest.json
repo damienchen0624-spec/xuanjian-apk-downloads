@@ -2,7 +2,7 @@
   "version": "0.4.6",
   "versionCode": 14,
   "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.6/xuanjian-0.4.6.apk",
-  "sha256": "0d958481b8a9bc1c3d913cc00125329453f2271678eb3b2577f8b29a5c8f845e",
+  "sha256": "ae10ab0b81aa76b6a272c134a161240e5fe43de9490485b46fa9949499e0af77",
   "bytes": 295629,
   "releaseNotes": "六爻收敛为完整确定性排盘、六类基础方向与ChatGPT深度分析入口。新增HexagramFacts，基础判断仅一句结论和3—5个证据信号；新增四个六爻MCP读取工具，共用完整raw facts。保留原排盘、旧档案、八字、离线与登录，同签名覆盖升级。",
   "publishedAt": "2026-10-12T01:27:11.417627Z"
