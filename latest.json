@@ -1,9 +1,9 @@
 {
-  "version": "0.4.8",
-  "versionCode": 16,
-  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.8/xuanjian-0.4.8.apk",
-  "sha256": "1b0e66568ce2826ec2c13b4acdbf3e5a73140c818690fcc816eb9280b02e864b",
-  "bytes": 316109,
-  "releaseNotes": "档案先保存到应用私有SQLite，连接账号后使用期间自动双向同步；旧本机档案首次确认归属并保留旧库。断网补传、GPT分析自动下载、账号与队列隔离、明确同步状态和分页历史搜索。原签名覆盖升级，旧安装包继续保留。",
-  "publishedAt": "2026-10-13T06:29:19.511527Z"
+  "version": "0.4.9",
+  "versionCode": 17,
+  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.9/xuanjian-0.4.9.apk",
+  "sha256": "5154cca1a0be79b13ff251f9b0c8119594899356e05a275c075c3bf67e2f2e4d",
+  "bytes": 320205,
+  "releaseNotes": "档案卡片与详情新增删除入口，可选择仅删除本机副本或删除本机与云端。仅删本机保留云端并避免自动下载；全部删除包含原盘、分析和反馈，断网排队、联网完成，其他设备同步移除。确认弹窗显示账号与范围，原签名覆盖升级。",
+  "publishedAt": "2026-10-13T11:39:51.390513Z"
 }
