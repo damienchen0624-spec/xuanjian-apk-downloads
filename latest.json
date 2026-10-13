@@ -1,9 +1,9 @@
 {
-  "version": "0.4.7",
-  "versionCode": 15,
-  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.7/xuanjian-0.4.7.apk",
-  "sha256": "834dec7c0c472365d4c98fba117621f66252e0783c9aae2d5d305f03fc68c86c",
-  "bytes": 299725,
-  "releaseNotes": "感情新增必选问题意图：关系状态、对方态度、短期活动、行动选择、联系时机。同一卦按意图输出一句结论和3—5个可追溯信号，MCP支持只读意图复核。保留原排盘、旧档案、八字、离线与登录，同签名覆盖升级。",
-  "publishedAt": "2026-10-12T06:56:07.986613Z"
+  "version": "0.4.8",
+  "versionCode": 16,
+  "apkUrl": "https://github.com/damienchen0624-spec/xuanjian-apk-downloads/releases/download/v0.4.8/xuanjian-0.4.8.apk",
+  "sha256": "1b0e66568ce2826ec2c13b4acdbf3e5a73140c818690fcc816eb9280b02e864b",
+  "bytes": 316109,
+  "releaseNotes": "档案先保存到应用私有SQLite，连接账号后使用期间自动双向同步；旧本机档案首次确认归属并保留旧库。断网补传、GPT分析自动下载、账号与队列隔离、明确同步状态和分页历史搜索。原签名覆盖升级，旧安装包继续保留。",
+  "publishedAt": "2026-10-13T06:29:19.511527Z"
 }
